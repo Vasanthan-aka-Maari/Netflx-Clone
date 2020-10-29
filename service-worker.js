@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Netflx-Clone/precache-manifest.7e7da28a01783bb71d686e6f6c910d6a.js"
+  "/Netflx-Clone/precache-manifest.8ebca4ac84dc1274f03ba90dea62a9cc.js"
 );
 
 self.addEventListener('message', (event) => {
